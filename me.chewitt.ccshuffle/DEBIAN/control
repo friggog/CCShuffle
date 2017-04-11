@@ -1,0 +1,11 @@
+Package: me.chewitt.ccshuffle
+Name: CCShuffle
+Depends: mobilesubstrate
+Conflicts: me.chewitt.shuffler
+Version: 1.1
+Architecture: iphoneos-arm
+Description: Adds repeat and shuffle controls to the CC and LS
+Depiction: http://chewitt.me/repo/depictions/shuffler.html
+Maintainer: Charlie Hewitt
+Author: Charlie Hewitt
+Section: Tweaks
